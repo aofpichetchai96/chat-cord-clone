@@ -49,7 +49,6 @@ a {
 .btn {
   cursor: pointer;
   padding: 5px 15px;
-  /* background: var(--light-color); */
   background: rgba(0, 0, 0, 0.4);
   color: var(--dark-color-a);
   color: white;
