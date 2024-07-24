@@ -8,7 +8,7 @@ function userJoin(id, username, room) {
     username,
     room,
   };
-
+ 
   users.push(user);
   return user;
 }
